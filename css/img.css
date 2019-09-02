@@ -1,0 +1,21 @@
+.imgs{
+	margin-left:200px;
+	margin-top:100px;
+	
+	
+}
+.header{
+	height:40px;
+	width:100%;
+	background-color:green;
+	
+}
+.header .home{
+	padding-top:40px;
+	text-decoration:none;
+	color:white;
+	font-size:20px;
+	
+	padding-left:10px;
+	
+}
